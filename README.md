@@ -1,5 +1,8 @@
 # geopy
 
+Proposed workshop at Python India Conference (PyCon India), 2015 to be held at Bengaluru on 2nd October, 2015.
+
+
 Contents
 ======
 
